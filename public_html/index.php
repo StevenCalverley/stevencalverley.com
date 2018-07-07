@@ -1,3 +1,4 @@
 <?php
-echo 'Nothing to see here.'
+
+echo '<p>Nothing to see here.</p>';
  ?>
