@@ -5,9 +5,7 @@
 <?php require_once(TEMPLATES_PATH . '/header.php'); ?>
 
 
-<h1>Hello World</h1>
-
-<p>testing</p>
+<p>Nothing to see here!</p>
 
 
 
