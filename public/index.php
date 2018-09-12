@@ -1,7 +1,5 @@
 <?php require_once('../inc/init.php'); ?>
 
-<?php $title = 'Homepage'; ?>
-
 <?php require_once(TEMPLATES_PATH . '/header.php'); ?>
 
     <section class="inner-container hero">
