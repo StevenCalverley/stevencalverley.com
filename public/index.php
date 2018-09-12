@@ -18,7 +18,7 @@
       <h3>Services</h3>
       <h4>Full Stack Web Development</h4>
       <p>I'm a hard-working web developer with a flair for creating elegant web-based solutions on time and within budget. I build solutions that elevate experiences and empower businesses.</p>
-      <p> I've developed a suite of Performance Reporting web applications supporting government objectives to develop operational staff.</p>
+      <p> I've developed a suite of Performance Reporting web applications supporting government objectives.</p>
       <p>Passionate about <strong>software architecture</strong> and <strong>user experience</strong>.</p>
     </section>
 
