@@ -1,8 +1,8 @@
 <?php
   if (!isset($title)) {
-    $title = 'Steven Calverley';
+      $title = 'Steven Calverley';
   } else {
-    $title = $title . ' | Steven Calverley';
+      $title = $title . ' | Steven Calverley';
   }
 ?>
 <!doctype html>
@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- CSS -->
-    <link rel="stylesheet" href="<? PUBLIC_PATH ?>/css/styles.css" >
+    <link rel="stylesheet" href="/css/styles.css" >
 
     <title><?= $title ?></title>
   </head>

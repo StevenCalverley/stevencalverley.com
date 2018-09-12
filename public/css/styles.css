@@ -296,3 +296,6 @@ template {
  */
 [hidden] {
   display: none; }
+
+h1 {
+  color: blue; }
