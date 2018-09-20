@@ -14,9 +14,13 @@ if (!isset($title)) {
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="Steven Calverley">
+    <meta name="google-site-verification" content="gSIfLf0aqWMch71F8_VMmolCcV3hfFTonl1OMvSwci4" />
+
+    <title><?php echo $title ?></title>
+
 
     <!-- CSS -->
-     <!-- Font Awesome -->
+    <!-- Font Awesome -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
     <!-- Typekit Fonts -->
     <link rel="stylesheet" href="https://use.typekit.net/lqq0iwn.css">
@@ -35,7 +39,7 @@ if (!isset($title)) {
   </script>
 
 
-    <title><?php echo $title ?></title>
+
   </head>
   <body>
     <!--[if lte IE 9]>
