@@ -1,5 +1,5 @@
      <footer class="border">
-      <p>Copyright Steven Calverley <span id="footer-date">2018</span></p>
+      <p>Copyright <a href="https://stevencalverley.com">Steven Calverley</a> <span id="footer-date"><?php echo date() ?></span></p>
     </footer>
 
     </div>

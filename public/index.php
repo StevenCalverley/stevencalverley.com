@@ -3,11 +3,11 @@
 <?php require_once(TEMPLATES_PATH . '/header.php'); ?>
 
     <section class="inner-container hero">
-      <h1 class="hero-text">Hello, my name is Steven, I am a Web Developer living on the Central Coast, NSW Australia.</h1>
+      <h1 class="hero-text">Hello, my name is Steven Calverley, I am a Web Developer living on the Central Coast, NSW Australia.</h1>
     </section>
 
     <section class="outer-container space-bottom">
-        <img src="images/beach.jpg" alt="Steven Hero">
+        <img src="images/beach.jpg" alt="Steven Calverley Central Coast">
     </section>
 
      <section class="inner-container space-bottom">
