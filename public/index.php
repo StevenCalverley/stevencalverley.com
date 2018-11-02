@@ -7,7 +7,7 @@
     </section>
 
     <section class="outer-container space-bottom">
-        <img src="images/beach.jpg" alt="Steven Calverley Central Coast">
+        <img src="images/beach.jpg" alt="Steven Calverley on the Central Coast">
     </section>
 
      <section class="inner-container space-bottom">
