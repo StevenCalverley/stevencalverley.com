@@ -12,11 +12,11 @@
 
      <section class="inner-container space-bottom">
       <h3>About</h3>
-      <p>I currently work as a Senior Software Developer for <a href="http://www.propertysafe.com.au" class="yellow" target="_blank">PropertySafe</a>, which is where my passion for design and development converge. Ouside of work I spend time with my beautiful wife and two amazing children, often under the sun having a blast.</p>
+      <p>I currently work as a Front End Developer for <a href="http://www.heffron.com.au" class="yellow" target="_blank">Heffron</a>, which is where my passion for design and development converge. Ouside of work I spend time with my beautiful wife and two amazing children, often under the sun having a blast.</p>
       <h3>Services</h3>
       <h4>Full Stack Web Development</h4>
       <p>I'm a hard-working web developer with a flair for creating elegant web-based solutions on time and within budget. I build solutions that elevate experiences and empower businesses.</p>
-      <p> I've developed a suite of web applications supporting the Real Estate industry.</p>
+      <p> I've developed a suite of web applications supporting the Financial industry.</p>
       <p>I'm very passionate about <strong>software architecture</strong> and <strong>user experience</strong>.</p>
     </section>
 
